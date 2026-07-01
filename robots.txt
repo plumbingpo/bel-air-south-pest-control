@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://belairsouthpestcontrol.com/sitemap.xml
